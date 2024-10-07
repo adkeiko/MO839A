@@ -1,0 +1,26 @@
+Referências
+
+
+https://www.businesswire.com/news/home/20221205005170/en/Intel-and-Penn-Medicine-Announce-Results-of-Largest-Medical-Federated-Learning-Study​
+
+https://blogs.nvidia.com/blog/what-is-federated-learning/​
+
+https://link.springer.com/chapter/10.1007/978-981-99-1648-1_29​
+
+Data Protection Act 2018 - https://www.legislation.gov.uk/ukpga/2018/12/part/2/chapter/2/enacted ​
+
+Blockchain and AI for secure data sharing - https://www.sciencedirect.com/science/article/abs/pii/S0895611120301075?via%3Dihub ​
+
+Federated Learning in a Medical Context - https://dl.acm.org/doi/10.1145/3412357 ​
+
+NVIDIA Clara - https://developer.nvidia.com/blog/federated-learning-clara/​
+
+Clara Train SDK | NVIDIA NGC - https://catalog.ngc.nvidia.com/orgs/nvidia/containers/clara-train-sdk​
+
+A federated learning framework for pneumonia image detection using distributed data - https://www.sciencedirect.com/science/article/pii/S2772442523000710​
+
+Federated Machine Learning for Skin Lesion Diagnosis: An Asynchronous and Weighted Approach : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10252842/pdf/diagnostics-13-01964.pdf​
+
+https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000​
+
+​
